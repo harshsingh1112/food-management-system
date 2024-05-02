@@ -1,0 +1,51 @@
+    [
+        {
+            "name": "John Smith",
+            "title": "Executive Chef",
+            "image": "https://i.ibb.co/MkgLtJp/team-img-1.jpg",
+            "experience": "20 years in culinary arts",
+            "facebook": "https://www.facebook.com/",
+            "youtube": "https://www.youtube.com/"
+        },
+        
+        {
+            "name": "Alice Johnson",
+            "title": "Pastry Chef",
+            "image": "https://i.ibb.co/4sQ5FLt/team-img-2.jpg",
+            "experience": "15 years in baking and pastry",
+            "facebook": "https://www.facebook.com/",
+            "youtube": "https://www.youtube.com/"
+        },
+        {
+            "name": "Robert Davis",
+            "title": "Sous Chef",
+            "image": "https://i.ibb.co/g6WqLz0/team-img-3.jpg",
+            "experience": "10 years in fine dining",
+            "facebook": "https://www.facebook.com/",
+            "youtube": "https://www.youtube.com/"
+        },
+        {
+            "name": "David Brown",
+            "title": "Sushi Chef",
+            "image": "https://i.ibb.co/fYC5jYV/team-img-4.jpg",
+            "experience": "12 years in sushi preparation",
+            "facebook": "https://www.facebook.com/",
+            "youtube": "https://www.youtube.com/"
+        },
+        {
+            "name": "Michael White",
+            "title": "Grill Master",
+            "image": "https://i.ibb.co/wKvKBPz/team-img-5.jpg",
+            "experience": "18 years in grilling and BBQ",
+            "facebook": "https://www.facebook.com/",
+            "youtube": "https://www.youtube.com/"
+          },
+          {
+            "name": "William Taylor",
+            "title": "Sous Chef",
+            "image": "https://i.ibb.co/8BGCDC9/OC3J9W0.jpg",
+            "experience": "14 years in fine dining",
+            "facebook": "https://www.facebook.com/",
+            "youtube": "https://www.youtube.com/"
+          }          
+    ]
